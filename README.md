@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different hats ( App Developer 📱) and 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/abdobody205070-ui" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -43,8 +43,8 @@ I am a versatilist and easily adapt to different hats ( App Developer 📱) and 
 ### 📊 Github Stats
 <a href='https://github.com/abdobody205070-ui'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://github.com/abdobody205070-ui)
+![Most Used Languages](https://github.com/abdobody205070-ui)
 
 </a>
 
